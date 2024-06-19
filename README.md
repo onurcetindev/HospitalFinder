@@ -1,8 +1,3 @@
-> - Contributors
->
->   - [Onur Çetin](https://github.com/onurcetindev)
->   - [Uğur Akın](https://github.com/akinnUgur)
->   - [Neslihan Akkoç](https://github.com/Nesslis)
 
 # Hospital Finder 
 
